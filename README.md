@@ -1,6 +1,6 @@
 # Maze Solver using Java, Java Swing, AWT
 
-## Objective: Shows the path from source to destination in a 2D-maze
+## Objective: used Graph DFS Algorithm to show the path from source to destination in a 2D-maze 
 
 ## How to Run application ?
 
